@@ -32,12 +32,15 @@ catAndMouse tiene los siguientes parámetros:
 
 ### Formato de entrada
 
-La primera línea contiene un solo entero,, que indica el número de consultas.
-Cada una de laslas líneas subsiguientes contienen tres enteros separados por espacios que describen los valores respectivos de(gatoubicación de ),(gatola ubicación de ), y(ratónubicación).
+La primera línea contiene un solo entero, q, que indica el número de consultas.
+Cada una de las q las líneas subsiguientes contienen tres enteros separados por espacios que describen los valores respectivos de x(gato A ubicación de ), y(gato B la ubicación de ), z(ratón C ubicación).
 
-Restricciones
+### Restricciones
 
-Entrada de muestra 0
+- 1<=q<=100
+- 1<=x, y, z<=100
+
+### Entrada de muestra 0
 
 ```
 
@@ -47,7 +50,7 @@ Entrada de muestra 0
 
 ```
 
-Salida de muestra 0
+### Salida de muestra 0
 
 ```
 
