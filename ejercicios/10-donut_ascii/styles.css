@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.title {
+  color: white;
+}
+
+#canvas {
+  background-color: rgb(255, 255, 255);
+  width: 500px;
+  height: 500px;
+}
